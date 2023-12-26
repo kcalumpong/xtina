@@ -18,7 +18,7 @@ December 08 2014 - Version 2.0
 
 	New files:
 	- 404.html
-	- clients.html
+	- index.html
 	- portfolio-single4.html
 
 
