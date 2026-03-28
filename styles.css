@@ -1,0 +1,6 @@
+.cover-image {
+    width: 100%;
+    max-width: 1080px;
+    aspect-ratio: 1080 / 1215;
+    object-fit: cover;
+}
